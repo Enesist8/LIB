@@ -1,0 +1,17 @@
+C:\Users\mazmm\source\repos\biblio\UstalTheme\bin\Debug\net6.0-windows\UstalTheme.deps.json
+C:\Users\mazmm\source\repos\biblio\UstalTheme\bin\Debug\net6.0-windows\UstalTheme.dll
+C:\Users\mazmm\source\repos\biblio\UstalTheme\bin\Debug\net6.0-windows\UstalTheme.pdb
+C:\Users\mazmm\source\repos\biblio\UstalTheme\obj\Debug\net6.0-windows\UstalTheme.csproj.AssemblyReference.cache
+C:\Users\mazmm\source\repos\biblio\UstalTheme\obj\Debug\net6.0-windows\Dictionary3.baml
+C:\Users\mazmm\source\repos\biblio\UstalTheme\obj\Debug\net6.0-windows\Themes\Dictionary1.baml
+C:\Users\mazmm\source\repos\biblio\UstalTheme\obj\Debug\net6.0-windows\Themes\Dictionary2.baml
+C:\Users\mazmm\source\repos\biblio\UstalTheme\obj\Debug\net6.0-windows\UstalTheme_MarkupCompile.cache
+C:\Users\mazmm\source\repos\biblio\UstalTheme\obj\Debug\net6.0-windows\UstalTheme.g.resources
+C:\Users\mazmm\source\repos\biblio\UstalTheme\obj\Debug\net6.0-windows\UstalTheme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazmm\source\repos\biblio\UstalTheme\obj\Debug\net6.0-windows\UstalTheme.AssemblyInfoInputs.cache
+C:\Users\mazmm\source\repos\biblio\UstalTheme\obj\Debug\net6.0-windows\UstalTheme.AssemblyInfo.cs
+C:\Users\mazmm\source\repos\biblio\UstalTheme\obj\Debug\net6.0-windows\UstalTheme.csproj.CoreCompileInputs.cache
+C:\Users\mazmm\source\repos\biblio\UstalTheme\obj\Debug\net6.0-windows\UstalTheme.dll
+C:\Users\mazmm\source\repos\biblio\UstalTheme\obj\Debug\net6.0-windows\refint\UstalTheme.dll
+C:\Users\mazmm\source\repos\biblio\UstalTheme\obj\Debug\net6.0-windows\UstalTheme.pdb
+C:\Users\mazmm\source\repos\biblio\UstalTheme\obj\Debug\net6.0-windows\ref\UstalTheme.dll

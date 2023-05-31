@@ -1,0 +1,12 @@
+C:\Users\mazmm\source\repos\biblio\UstallyAAA\bin\Debug\net6.0\UstallyAAA.deps.json
+C:\Users\mazmm\source\repos\biblio\UstallyAAA\bin\Debug\net6.0\UstallyAAA.dll
+C:\Users\mazmm\source\repos\biblio\UstallyAAA\bin\Debug\net6.0\UstallyAAA.pdb
+C:\Users\mazmm\source\repos\biblio\UstallyAAA\obj\Debug\net6.0\UstallyAAA.csproj.AssemblyReference.cache
+C:\Users\mazmm\source\repos\biblio\UstallyAAA\obj\Debug\net6.0\UstallyAAA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazmm\source\repos\biblio\UstallyAAA\obj\Debug\net6.0\UstallyAAA.AssemblyInfoInputs.cache
+C:\Users\mazmm\source\repos\biblio\UstallyAAA\obj\Debug\net6.0\UstallyAAA.AssemblyInfo.cs
+C:\Users\mazmm\source\repos\biblio\UstallyAAA\obj\Debug\net6.0\UstallyAAA.csproj.CoreCompileInputs.cache
+C:\Users\mazmm\source\repos\biblio\UstallyAAA\obj\Debug\net6.0\UstallyAAA.dll
+C:\Users\mazmm\source\repos\biblio\UstallyAAA\obj\Debug\net6.0\refint\UstallyAAA.dll
+C:\Users\mazmm\source\repos\biblio\UstallyAAA\obj\Debug\net6.0\UstallyAAA.pdb
+C:\Users\mazmm\source\repos\biblio\UstallyAAA\obj\Debug\net6.0\ref\UstallyAAA.dll

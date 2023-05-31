@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "biblio", "biblio\biblio.csproj", "{98DD9992-091E-4B06-B87A-0ECB7B9FB8E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "USTALYAAA", "USTALYAAA\USTALYAAA.csproj", "{2C80D7AF-82F0-47BA-9194-4A1BC5787ED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UstalTheme", "UstalTheme\UstalTheme.csproj", "{BC934EDA-617E-4308-8A74-44EE3E1DEEEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98DD9992-091E-4B06-B87A-0ECB7B9FB8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DD9992-091E-4B06-B87A-0ECB7B9FB8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DD9992-091E-4B06-B87A-0ECB7B9FB8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DD9992-091E-4B06-B87A-0ECB7B9FB8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C80D7AF-82F0-47BA-9194-4A1BC5787ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C80D7AF-82F0-47BA-9194-4A1BC5787ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C80D7AF-82F0-47BA-9194-4A1BC5787ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C80D7AF-82F0-47BA-9194-4A1BC5787ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC934EDA-617E-4308-8A74-44EE3E1DEEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC934EDA-617E-4308-8A74-44EE3E1DEEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC934EDA-617E-4308-8A74-44EE3E1DEEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC934EDA-617E-4308-8A74-44EE3E1DEEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA312D14-1D91-46BF-AAA5-3BB5D0FA5907}
+	EndGlobalSection
+EndGlobal

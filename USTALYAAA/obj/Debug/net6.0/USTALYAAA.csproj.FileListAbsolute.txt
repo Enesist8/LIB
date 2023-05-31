@@ -1,0 +1,12 @@
+C:\Users\mazmm\source\repos\biblio\USTALYAAA\bin\Debug\net6.0\USTALYAAA.deps.json
+C:\Users\mazmm\source\repos\biblio\USTALYAAA\bin\Debug\net6.0\USTALYAAA.dll
+C:\Users\mazmm\source\repos\biblio\USTALYAAA\bin\Debug\net6.0\USTALYAAA.pdb
+C:\Users\mazmm\source\repos\biblio\USTALYAAA\obj\Debug\net6.0\USTALYAAA.csproj.AssemblyReference.cache
+C:\Users\mazmm\source\repos\biblio\USTALYAAA\obj\Debug\net6.0\USTALYAAA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazmm\source\repos\biblio\USTALYAAA\obj\Debug\net6.0\USTALYAAA.AssemblyInfoInputs.cache
+C:\Users\mazmm\source\repos\biblio\USTALYAAA\obj\Debug\net6.0\USTALYAAA.AssemblyInfo.cs
+C:\Users\mazmm\source\repos\biblio\USTALYAAA\obj\Debug\net6.0\USTALYAAA.csproj.CoreCompileInputs.cache
+C:\Users\mazmm\source\repos\biblio\USTALYAAA\obj\Debug\net6.0\USTALYAAA.dll
+C:\Users\mazmm\source\repos\biblio\USTALYAAA\obj\Debug\net6.0\refint\USTALYAAA.dll
+C:\Users\mazmm\source\repos\biblio\USTALYAAA\obj\Debug\net6.0\USTALYAAA.pdb
+C:\Users\mazmm\source\repos\biblio\USTALYAAA\obj\Debug\net6.0\ref\USTALYAAA.dll
